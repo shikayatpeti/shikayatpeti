@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shikayatpeti
 - 👀 I’m interested in creating a user platform
 - 🌱 I’m currently learning React, React Native, and Node
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on all of the above
 - 📫 How to reach me .... (In Progress)
 
 <!---
